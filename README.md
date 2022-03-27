@@ -1,2 +1,2 @@
 # css-animation
- A simple css animation
+A simple css animation
